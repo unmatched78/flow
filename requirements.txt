@@ -1,5 +1,5 @@
-Flask                         3.0.3
-Flask-Cors                    5.0.0
-Flask-Limiter                 3.9.2
+flask                         3.0.3
+flask-cors                    5.0.0
+flask-limiter                 3.9.2
 llamaapi                      0.1.36
 openai                        1.52.2
